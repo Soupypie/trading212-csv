@@ -1,0 +1,13 @@
+Writing transactions to CSV...
+        BBVA needs manual mapping!
+        BBVA needs manual mapping!
+        RHM needs manual mapping!
+        AIR needs manual mapping!
+        SAF needs manual mapping!
+        AIR needs manual mapping!
+        RHM needs manual mapping!
+        AIR needs manual mapping!
+        SAF needs manual mapping!
+        RHM needs manual mapping!
+        ASML needs manual mapping!
+        Written to: C:\Users\niran\Downloads\yahoofinance.csv
